@@ -1,4 +1,11 @@
 # DIO - Trilha .NET - Fundamentos
+
+
+
+# OBSERVAÇÃO: ARTHUR DUARTE, RESOLVIDO.
+
+
+
 www.dio.me
 
 ## Desafio de projeto
